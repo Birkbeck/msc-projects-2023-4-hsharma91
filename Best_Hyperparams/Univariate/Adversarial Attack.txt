@@ -1,0 +1,2 @@
+SMAPE: 0.15534653033850002
+Hyperparams: {'unit': [50], 'rdo': 0.5, 'n_features': 1, 'lr': 0.0001, 'epoch': 100, 'beta': 0.5, 'attack': 'Mentions-Adversarial Attack', 'alpha': 0.1}

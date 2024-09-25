@@ -1,0 +1,2 @@
+SMAPE: 0.5305100678113244
+Hyperparams: {'unit': [25], 'rdo': 0.15, 'n_features': 3, 'lr': 0.0006, 'epoch': 30, 'beta': 0.85, 'attack': 'Cryptojacking-ALL', 'alpha': 0.375}

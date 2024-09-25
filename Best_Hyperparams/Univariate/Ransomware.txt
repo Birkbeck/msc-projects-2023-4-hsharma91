@@ -1,0 +1,2 @@
+SMAPE: 0.260349145767095
+Hyperparams: {'alpha': 0.3, 'attack': 'Ransomware-ALL', 'beta': 0.75, 'epoch': 100, 'l2_reg': 0.024713009082212016, 'lr': 0.00017460443532333516, 'n_features': 1, 'rdo': 0.23442710948117573, 'unit': [128, 64]}

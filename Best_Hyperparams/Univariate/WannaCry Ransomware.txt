@@ -1,0 +1,2 @@
+SMAPE: 0.1633725615742192
+Hyperparams: {'alpha': 0.15, 'attack': 'Mentions-WannaCry Ransomware', 'beta': 0.65, 'epoch': 150, 'l2_reg': 0.015062725171601753, 'lr': 0.0007186043489298723, 'n_features': 1, 'rdo': 0.231738726323789, 'unit': [128]}

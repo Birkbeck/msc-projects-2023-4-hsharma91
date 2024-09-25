@@ -1,0 +1,2 @@
+SMAPE: 0.324097632132061
+Hyperparams: {'alpha': 0.15, 'attack': 'Mentions-Data Poisoning', 'beta': 0.6, 'epoch': 200, 'l2_reg': 0.017140684953733692, 'lr': 0.0001887987793138364, 'n_features': 1, 'rdo': 0.1592547011408165, 'unit': [32]}

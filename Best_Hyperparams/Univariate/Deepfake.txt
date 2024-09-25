@@ -1,0 +1,2 @@
+SMAPE: 0.1923205593002334
+Hyperparams: {'alpha': 0.25, 'attack': 'Mentions-Deepfake', 'beta': 0.75, 'epoch': 200, 'l2_reg': 0.014335257864959598, 'lr': 0.0007243365608351746, 'n_features': 1, 'rdo': 0.23606150771755596, 'unit': [256, 128]}
