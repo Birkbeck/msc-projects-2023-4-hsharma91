@@ -1,2 +1,2 @@
-SMAPE: 0.45549994206795275
-Hyperparams: {'unit': [40, 20], 'rdo': 0.15, 'n_features': 2, 'lr': 0.0001, 'epoch': 30, 'beta': 0.5, 'attack': 'Mentions-Deepfake', 'alpha': 0.25}
+SMAPE: 0.3306480699089025
+Hyperparams: {'alpha': 0.5, 'attack': 'Mentions-Deepfake', 'batch_size': 2, 'beta': 0.6, 'epoch': 200, 'l2_reg': 0.03431607907192171, 'lr': 0.0008504244575823116, 'n_features': 3, 'rdo': 0.2795320848047654, 'unit': [256, 128]}

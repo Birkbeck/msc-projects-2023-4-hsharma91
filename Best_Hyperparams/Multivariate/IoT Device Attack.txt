@@ -1,2 +1,2 @@
-SMAPE: 0.558054570308189
-Hyperparams: {'alpha': 0.25, 'attack': 'Mentions-IoT Device Attack', 'beta': 0.8, 'epoch': 150, 'l2_reg': 0.019639878836228104, 'lr': 0.00039687933304443713, 'n_features': 3, 'rdo': 0.13120372808848732, 'unit': [100]}
+SMAPE: 0.15597888
+Hyperparams: {'unit': [128, 64], 'rdo': 0.19941475974690254, 'n_features': 3, 'lr': 0.00024407507187476713, 'l2_reg': 0.021244040385366515, 'epoch': 100, 'beta': 0.7, 'batch_size': 2, 'attack': 'Mentions-IoT Device Attack', 'alpha': 0.2}
