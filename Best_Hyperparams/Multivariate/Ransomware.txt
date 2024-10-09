@@ -1,2 +1,2 @@
 SMAPE: 0.15415952839544433
-Hyperparams: {'alpha': 0.05, 'attack': 'Ransomware-ALL', 'batch_size': 2, 'beta': 0.6, 'epoch': 200, 'l2_reg': 0.016390425299273002, 'lr': 0.00032236781520712717, 'n_features': 3, 'rdo': 0.13558894611207284, 'unit': [64]}
+Hyperparams: {'alpha': 0.05, 'attack': 'Ransomware-ALL', 'batch_size': 2, 'beta': 0.6, 'epoch': 200, 'l2_reg': 0.01683726544892979, 'lr': 0.000095827205580565032, 'n_features': 3, 'rdo': 0.13558894611207284, 'unit': [24]}

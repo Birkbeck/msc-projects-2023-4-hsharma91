@@ -1,2 +1,2 @@
 SMAPE: 0.35527933393704136
-Hyperparams: {'alpha': 0.15, 'attack': 'Cryptojacking-ALL', 'batch_size': 2, 'beta': 0.75, 'epoch': 200, 'l2_reg': 0.022572257429174437, 'lr': 0.00010584704264684186, 'n_features': 3, 'rdo': 0.12017488943897459, 'unit': [100]}
+Hyperparams: {'alpha': 0.15, 'attack': 'Cryptojacking-ALL', 'batch_size': 2, 'beta': 0.75, 'epoch': 200, 'l2_reg': 0.032572257429174437, 'lr': 0.00010584704264684186, 'n_features': 3, 'rdo': 0.12017488943897459, 'unit': [32,16]}

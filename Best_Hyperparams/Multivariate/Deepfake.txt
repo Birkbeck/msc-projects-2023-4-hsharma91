@@ -1,2 +1,2 @@
 SMAPE: 0.3306480699089025
-Hyperparams: {'alpha': 0.5, 'attack': 'Mentions-Deepfake', 'batch_size': 2, 'beta': 0.6, 'epoch': 200, 'l2_reg': 0.03431607907192171, 'lr': 0.0008504244575823116, 'n_features': 3, 'rdo': 0.2795320848047654, 'unit': [256, 128]}
+Hyperparams: {'alpha': 0.3, 'attack': 'Mentions-Deepfake', 'batch_size': 2, 'beta': 0.7, 'epoch': 200, 'l2_reg': 0.007431607907192171, 'lr': 0.0008504244575823116, 'n_features': 3, 'rdo': 0.2795320848047654, 'unit': [256, 128]}
